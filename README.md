@@ -303,7 +303,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you have any questions or need help, please:
 - Open an issue on GitHub
-- Contact the maintainer via email: [your-email@example.com](mailto:yasienahmed607@gmail.com)
+- Contact the maintainer via email: [yasienahmed607@gmail.com](mailto:yasienahmed607@gmail.com)
 
 ## 👨‍💻 Author
 
