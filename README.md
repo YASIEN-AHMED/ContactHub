@@ -303,7 +303,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you have any questions or need help, please:
 - Open an issue on GitHub
-- Contact the maintainer
+- Contact the maintainer via email: [your-email@example.com](mailto:yasienahmed607@gmail.com)
 
 ## 👨‍💻 Author
 
@@ -315,8 +315,9 @@ If you have any questions or need help, please:
 🏢 **General Authority for Investment**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasien-ahmed-b8ab41325)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasienahmed607@gmail.com)
 
-[🔗 LinkedIn Profile](https://www.linkedin.com/in/yasien-ahmed-b8ab41325)
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/yasien-ahmed-b8ab41325) | [📧 Email](mailto:yasienahmed607@gmail.com)
 
 </div>
 
